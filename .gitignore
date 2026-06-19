@@ -1,0 +1,35 @@
+```
+# Dependencies
+node_modules/
+# Build artifacts
+dist/
+build/
+target/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+# Virtual environments
+venv/
+.venv/
+.env
+.env.local
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+# Logs
+*.log
+# Coverage
+coverage/
+htmlcov/
+.coverage
+# Temp files
+*.tmp
+# OS
+.DS_Store
+Thumbs.db
+```
